@@ -1,4 +1,4 @@
-=== Busted ===
+=== Busted! ===
 Contributors: brainstormmedia, pdclark
 Plugin URI: https://github.com/brainstormmedia/disable-browser-cache
 Author URI: http://brainstormmedia.com
