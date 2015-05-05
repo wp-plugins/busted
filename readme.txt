@@ -1,5 +1,5 @@
 === Busted! ===
-Contributors: 10up, pdclark
+Contributors: pdclark
 Plugin URI: https://github.com/pdclark/busted
 Author URI: http://pdclark.com
 Tags: browser cache, develop, debug, client, clear, empty, refresh
